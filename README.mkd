@@ -7,4 +7,5 @@ tables.
 usage: Takes in the csv via stdin and outputs table to stdout.
 
 Example:
+
     python csvparse.py < test.csv
