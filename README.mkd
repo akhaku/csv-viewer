@@ -1,7 +1,10 @@
 # Command-Line CSV viewer #
-@author: akhaku
-@description: A simple command line utility to view csv files as ASCII-style
+author: akhaku
+
+description: A simple command line utility to view csv files as ASCII-style
 tables. 
-@usage: Takes in the csv via stdin and outputs table to stdout.
+
+usage: Takes in the csv via stdin and outputs table to stdout.
+
 Example:
     python csvparse.py < test.csv
