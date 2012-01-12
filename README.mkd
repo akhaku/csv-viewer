@@ -9,3 +9,5 @@ usage: Takes in the csv via stdin and outputs table to stdout.
 Example:
 
     python csvparse.py < test.csv
+
+version 0.1.0 (alpha)
